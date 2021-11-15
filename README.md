@@ -1,4 +1,4 @@
-# CSAProjects
+# CS A and Advanced Topics Projects
 
 Files.java + file.txt = parse each word in moby dick, and tell you how many of each word
 
