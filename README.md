@@ -12,4 +12,6 @@ SwapMethod.java = swaps 2 arrays
 
 firstToLast.java = reverses an array
 
-last updated 11/15/21
+WeatherLab.java = simulates weather
+
+last updated 5/31/22
